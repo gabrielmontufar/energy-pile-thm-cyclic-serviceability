@@ -16,4 +16,4 @@ jobs:
       - run: python -m pip install -r requirements-lock.txt
       - run: python run_tests.py
       - run: PYTHONPATH=src python -m energy_pile_screening.pipeline
-      - run: git diff --exit-code -- outputs
+      - run: python validate_reproduction.py
