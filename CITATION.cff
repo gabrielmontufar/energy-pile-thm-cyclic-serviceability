@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release and manuscript."
+title: "Energy-pile THM and cyclic-settlement serviceability screening"
+type: software
+authors:
+  - family-names: "Montúfar Chiriboga"
+    given-names: "Gabriel Jesús"
+    orcid: "https://orcid.org/0000-0003-3392-3728"
+version: 1.0.0
+date-released: 2026-07-13
+license: MIT
+repository-code: "https://github.com/gabrielmontufar/energy-pile-thm-cyclic-serviceability"

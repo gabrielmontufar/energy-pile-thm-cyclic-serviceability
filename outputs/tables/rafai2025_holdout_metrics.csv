@@ -1,0 +1,2 @@
+rmse_mm,mae_mm,maximum_absolute_error_mm,status
+0.12295769470794357,0.09456484263799224,0.2034199515261509,external transferability check; not recalibration

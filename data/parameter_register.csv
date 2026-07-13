@@ -1,0 +1,12 @@
+parameter,central_value,unit,screening_range,status,provenance_or_action
+upper_silty_clay_mv,4.5e-5,1/kPa,0.6-1.4 times central,illustrative,Replace with site compressibility evidence
+upper_silty_clay_cv,2.0e-8,m2/s,0.3-3.0 times central log-uniform,illustrative,Replace with consolidation or permeability-storage evidence
+upper_silty_clay_Lambda,10.0,kPa/degC,0.6-1.4 times central,illustrative,Measure undrained thermal pressurization or derive from traceable THM properties
+sandy_silt_mv,2.5e-5,1/kPa,0.6-1.4 times central,illustrative,Replace with site compressibility evidence
+sandy_silt_cv,1.2e-7,m2/s,0.3-3.0 times central log-uniform,illustrative,Replace with consolidation or permeability-storage evidence
+sandy_silt_Lambda,6.0,kPa/degC,0.6-1.4 times central,illustrative,Measure or bound from appropriate saturated THM tests
+dense_sand_mv,1.2e-5,1/kPa,0.6-1.4 times central,illustrative,Replace with site compressibility evidence
+dense_sand_cv,7.0e-7,m2/s,0.3-3.0 times central log-uniform,illustrative,Replace with site drainage evidence
+dense_sand_Lambda,3.0,kPa/degC,0.6-1.4 times central,illustrative,Measure or bound from appropriate saturated THM tests
+cyclic_A,0.8786045,mm,bootstrap interval,calibrated,Qiu et al. 2025 Fig. 21 open workbook
+cyclic_b,2.2298671,dimensionless,bootstrap interval,calibrated,Qiu et al. 2025 Fig. 21 open workbook

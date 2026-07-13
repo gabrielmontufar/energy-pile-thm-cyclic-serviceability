@@ -1,0 +1,5 @@
+load_ratio,cycles,observed_residual_mm,source,role,predicted_mm,error_mm
+0.0,2,0.0,"Rafai, Salciarini and Vardon (2025), Acta Geotechnica, doi:10.1007/s11440-025-02556-4",external transferability check,0.0,0.0
+0.3,10,0.1,"Rafai, Salciarini and Vardon (2025), Acta Geotechnica, doi:10.1007/s11440-025-02556-4",external transferability check,0.14377173791042192,0.04377173791042191
+0.4,10,0.142,"Rafai, Salciarini and Vardon (2025), Acta Geotechnica, doi:10.1007/s11440-025-02556-4",external transferability check,0.27306768111539614,0.13106768111539616
+0.6,10,0.471,"Rafai, Salciarini and Vardon (2025), Acta Geotechnica, doi:10.1007/s11440-025-02556-4",external transferability check,0.6744199515261509,0.2034199515261509

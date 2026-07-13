@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "energy-pile-thm-cyclic-serviceability"
+version = "1.0.0"
+description = "Reduced-order THM and cyclic-settlement screening for energy piles"
+requires-python = ">=3.11"
+dependencies = [
+  "matplotlib>=3.8",
+  "numpy>=1.26",
+  "openpyxl>=3.1",
+  "pandas>=2.2",
+]
+
+[project.optional-dependencies]
+test = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

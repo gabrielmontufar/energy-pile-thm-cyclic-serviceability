@@ -1,0 +1,39 @@
+{
+  "qiu_workbook_sha256": "18ab1124a6c70f34743f17a870b1c5d6439c3df87386aa7a79c7ff820001154a",
+  "qiu_levels": [
+    0.33,
+    0.5,
+    0.6,
+    0.7,
+    0.8
+  ],
+  "qiu_points": 155,
+  "qiu_maximum_mm": 2.294,
+  "selected_cyclic_law": {
+    "family": "logarithmic",
+    "coefficients": [
+      0.8786045111159011,
+      2.229867112239721
+    ],
+    "cv_rmse_mm": 0.45713908961897803,
+    "cv_se_mm": 0.19670332952320557,
+    "calibration_rmse_mm": 0.4011683790455494,
+    "interpretation": "empirical screening envelope; not a constitutive law"
+  },
+  "hydraulic_closed_form_max_error_kpa": 2.842170943040401e-14,
+  "rafai_holdout": {
+    "rmse_mm": 0.12295769470794357,
+    "mae_mm": 0.09456484263799224,
+    "maximum_absolute_error_mm": 0.2034199515261509,
+    "status": "external transferability check; not recalibration"
+  },
+  "software_environment": {
+    "python": "3.12.10",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.4.4",
+    "pandas": "3.0.3",
+    "matplotlib": "3.10.9",
+    "openpyxl": "3.1.5"
+  },
+  "claim_boundary": "The cyclic relation is an empirical screening envelope calibrated to Qiu et al.; Rafai et al. is an external transferability check. The three infrastructure cases are illustrative."
+}
