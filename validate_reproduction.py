@@ -51,4 +51,3 @@ for stem in range(1, 6):
             raise AssertionError(f"Missing or empty figure {stem}.{suffix}")
 
 print("Cross-platform reproduction validated within numerical tolerances")
-
