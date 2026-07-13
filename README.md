@@ -1,5 +1,7 @@
 # Reduced-order THM and cyclic-settlement screening for energy piles
 
+[![reproduce](https://github.com/gabrielmontufar/energy-pile-thm-cyclic-serviceability/actions/workflows/reproduce.yml/badge.svg)](https://github.com/gabrielmontufar/energy-pile-thm-cyclic-serviceability/actions/workflows/reproduce.yml)
+
 This repository reproduces the calculations, tables and algorithmic figures supporting the manuscript **“Reduced-Order Thermo-Hydro-Mechanical Model for Cyclic Settlement and Serviceability Screening of Energy Piles.”**
 
 ## Reproduce
