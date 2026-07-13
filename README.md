@@ -1,6 +1,7 @@
 # Reduced-order THM and cyclic-settlement screening for energy piles
 
 [![reproduce](https://github.com/gabrielmontufar/energy-pile-thm-cyclic-serviceability/actions/workflows/reproduce.yml/badge.svg)](https://github.com/gabrielmontufar/energy-pile-thm-cyclic-serviceability/actions/workflows/reproduce.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21346363.svg)](https://doi.org/10.5281/zenodo.21346363)
 
 This repository reproduces the calculations, tables and algorithmic figures supporting the manuscript **“Reduced-Order Thermo-Hydro-Mechanical Model for Cyclic Settlement and Serviceability Screening of Energy Piles.”**
 
@@ -16,6 +17,10 @@ python -m energy_pile_screening.pipeline
 ```
 
 The pipeline writes all numerical results to `outputs/tables`, figures in PDF and 600-dpi PNG to `outputs/figures`, and a machine-readable run record to `outputs/run_metadata.json`.
+
+## Archived release
+
+Release `v1.0.2` is permanently archived in Zenodo: https://doi.org/10.5281/zenodo.21346363.
 
 ## Evidence boundaries
 

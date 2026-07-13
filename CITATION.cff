@@ -6,7 +6,11 @@ authors:
   - family-names: "Montúfar Chiriboga"
     given-names: "Gabriel Jesús"
     orcid: "https://orcid.org/0000-0003-3392-3728"
-version: 1.0.0
+version: 1.0.2
 date-released: 2026-07-13
 license: MIT
 repository-code: "https://github.com/gabrielmontufar/energy-pile-thm-cyclic-serviceability"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21346363"
+    description: "Archived software release v1.0.2"
